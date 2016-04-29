@@ -1,0 +1,1 @@
+Apache Commons-lang is commonly used on server side, but it's code is not supported on GWT as most of classes it used are excluded from the JRE emulation
